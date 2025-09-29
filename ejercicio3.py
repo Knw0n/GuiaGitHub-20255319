@@ -1,1 +1,1 @@
-print("Mi nombre es Oscar Dominguez y este es mi primer repositorio en GitHub")
+print("Mi nombre es Oscar Dominguez Lemus y este es mi primer repositorio en GitHub")
